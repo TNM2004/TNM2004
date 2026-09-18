@@ -1,33 +1,44 @@
 <div align="center">
 
-  <!-- Typing SVG Header -->
-  <a href="https://github.com/TNM2004">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2400&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&height=75&lines=TRAN+NHAT+MINH+(TNM);Backend+Software+Engineer;Clean+Architecture+%7C+DDD+Specialist;High-Throughput+APIs+%7C+Distributed+Systems" alt="Typing SVG" />
-  </a>
+<!-- Neon Border Container Card for Header -->
+<table border="0" style="border: 2px solid #00F5D4; border-radius: 14px; background: #0d1117; padding: 22px; width: 100%; box-shadow: 0 0 20px rgba(0, 245, 212, 0.25);">
+  <tr>
+    <td align="center">
+      
+      <!-- Typing SVG Header -->
+      <a href="https://github.com/TNM2004">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2400&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&height=70&lines=TRAN+NHAT+MINH+(TNM);Backend+Software+Engineer;Clean+Architecture+%7C+DDD+Specialist;High-Throughput+APIs+%7C+Distributed+Systems" alt="Typing SVG" />
+      </a>
 
-  <p align="center">
-    <strong>Crafting scalable microservices, resilient backends, and decoupled high-performance systems.</strong>
-  </p>
+      <p style="color: #c9d1d9; font-size: 15px; margin: 10px 0 16px 0;">
+        ⚡ <i>Crafting scalable microservices, resilient backends, and decoupled high-performance systems.</i>
+      </p>
 
-  <!-- Social & Contact Badges -->
-  <p align="center">
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/TNM2004">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
-    </a>
-  </p>
+      <!-- Social & Contact Badges -->
+      <p align="center">
+        <a href="https://linkedin.com">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+        </a>
+        &nbsp;
+        <a href="mailto:your.email@example.com">
+          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/TNM2004">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
+        </a>
+      </p>
 
-  <!-- Glowing Line Separator -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="12px" alt="Glow Separator" />
+      <!-- Glowing Neon Divider -->
+      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Glow Separator" />
+
+    </td>
+  </tr>
+</table>
 
 </div>
+
+---
 
 ### 🚀 Core Engineering Mindset
 
@@ -89,7 +100,7 @@
 ### 🏆 Key Architectural Projects
 
 * 🏢 **Enterprise ERP Modular Core**  
-  *High-concurrency backend built on ASP.NET Core & EF Core following Clean Architecture and DDD principles, complete with role-based access control (RBAC) and automated background processing.*  
+  *High-concurrency backend built on ASP.NET Core & EF Core following Clean Architecture and DDD principles, complete with role-based access control (RBAC) và automated background processing.*  
   `ASP.NET Core` • `EF Core` • `SQL Server` • `Redis` • `Hangfire`
 
 * ⚡ **High-Throughput Distributed Cache Gateway**  
@@ -98,7 +109,11 @@
 
 ---
 
-<!-- GitHub Contribution Snake Animation -->
+### 🏅 Engineering Achievements & Trophies
+
 <div align="center">
-  <img src="https://platane.github.io/snk/github-user-contribution.svg?username=TNM2004&color_snake=%2300F5D4&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353" alt="Contribution Snake" />
+  <!-- Dynamic GitHub Achievements / Trophies -->
+  <a href="https://github.com/TNM2004">
+    <img src="https://github-profile-trophy.vercel.app/?username=TNM2004&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  </a>
 </div>
