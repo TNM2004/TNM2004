@@ -67,12 +67,12 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=TNM2004&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="TNM2004's GitHub Stats" />
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNM2004&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=TNM2004&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="TNM2004's Stats" height="160em" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TNM2004&layout=compact&theme=radical&hide_border=true" alt="Top Langs" height="160em" />
 </div>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TNM2004&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TNM2004&theme=radical&hide_border=true" alt="Streak Stats" />
 </p>
 
 ---
@@ -87,12 +87,4 @@
   *Scalable messaging layer decoupling sync API flows using RabbitMQ brokers and reducing database pressure by over 60% with Redis distributed caches.*  
   `C#` • `RabbitMQ` • `Redis` • `Docker Compose`
 
----
-
-### 🏅 Engineering Achievements & Trophies
-
-<div align="center">
-<a href="https://github.com/TNM2004">
-<img src="https://github-profile-trophy.vercel.app/?username=TNM2004&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</a>
 </div>
