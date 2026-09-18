@@ -1,19 +1,34 @@
 <div align="center">
 
-# 👨‍💻 Tran Nhat Minh (TNM)
-### **Backend Software Engineer**
+  <!-- Dynamic Animated Typing Banner -->
+  <a href="https://github.com/TNM2004">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=850&height=105&lines=TRAN+NHAT+MINH+(TNM);Backend+Software+Engineer;Clean+Architecture+%7C+High-Throughput+APIs;Distributed+Systems+%7C+Event-Driven" alt="Typing SVG" />
+  </a>
 
-Building scalable distributed systems, high-throughput APIs & resilient backend architectures.
+  <!-- Animated Wave Header -->
+  <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,45&height=120&section=header&text=Building%20Resilient%20%26%20Scalable%20Systems&fontSize=22&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Header Wave" />
+  </p>
 
----
+  <!-- Connect Social Badges -->
+  <p align="center">
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/TNM2004">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub" />
+    </a>
+  </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TNM2004)
+  <!-- Neon Glowing Separator -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="12px" alt="Line Separator" />
 
 </div>
-
----
 
 ### ⚡ Engineering Focus & Architectural Mindset
 
@@ -66,12 +81,12 @@ Building scalable distributed systems, high-throughput APIs & resilient backend 
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=TNM2004&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="TNM2004's Stats" />
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNM2004&layout=compact&theme=github_dark&hide_border=true" alt="TNM2004's Languages" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=TNM2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="TNM2004's Stats" />
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TNM2004&layout=compact&theme=tokyonight&hide_border=true" alt="TNM2004's Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TNM2004&theme=github_dark&hide_border=true" alt="TNM2004's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TNM2004&theme=tokyonight&hide_border=true" alt="TNM2004's Streak" />
 </p>
 
 ---
@@ -85,3 +100,9 @@ Building scalable distributed systems, high-throughput APIs & resilient backend 
 * ⚡ **High-Throughput Distributed Cache & Messaging Service**  
   *Giải pháp tích hợp message broker và caching phân tán giúp phân tải I/O cho cơ sở dữ liệu và xử lý hàng triệu bản ghi bất đồng bộ.*  
   `C#` • `RabbitMQ` • `Redis` • `Docker Compose`
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,26,45&height=80&section=footer" width="100%" alt="Footer Wave" />
+</div>
