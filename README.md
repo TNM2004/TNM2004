@@ -1,16 +1,16 @@
 <div align="center">
 
-<!-- Neon Border Container Card for Header -->
-<table border="0" style="border: 2px solid #00F5D4; border-radius: 14px; background: #0d1117; padding: 22px; width: 100%; box-shadow: 0 0 20px rgba(0, 245, 212, 0.25);">
+<!-- Header Container Card with Cyan Glowing Frame -->
+<table align="center" width="100%" style="background-color: #0d1117; border: 2px solid #00F5D4; border-radius: 12px; margin-bottom: 20px;">
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 24px 16px;">
       
       <!-- Typing SVG Header -->
       <a href="https://github.com/TNM2004">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2400&pause=1000&color=00F5D4&center=true&vCenter=true&width=750&height=70&lines=TRAN+NHAT+MINH+(TNM);Backend+Software+Engineer;Clean+Architecture+%7C+DDD+Specialist;High-Throughput+APIs+%7C+Distributed+Systems" alt="Typing SVG" />
       </a>
 
-      <p style="color: #c9d1d9; font-size: 15px; margin: 10px 0 16px 0;">
+      <p align="center" style="color: #c9d1d9; font-size: 15px; margin: 12px 0 18px 0;">
         ⚡ <i>Crafting scalable microservices, resilient backends, and decoupled high-performance systems.</i>
       </p>
 
@@ -29,7 +29,7 @@
         </a>
       </p>
 
-      <!-- Glowing Neon Divider -->
+      <!-- Neon Gradient Divider Line -->
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="8px" alt="Glow Separator" />
 
     </td>
@@ -37,8 +37,6 @@
 </table>
 
 </div>
-
----
 
 ### 🚀 Core Engineering Mindset
 
@@ -79,7 +77,7 @@
   <img src="https://img.shields.io/badge/CQRS_%26_MediatR-2496ED?style=flat-square&logoColor=white" alt="CQRS" />
   <img src="https://img.shields.io/badge/Hangfire_Workers-FF4B4B?style=flat-square&logoColor=white" alt="Hangfire" />
   <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square&logoColor=white" alt="REST" />
-  <img src="https://img.shields.io/badge/WireGuard_VPN-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/WireGuard_VPN-88171A?style=flat-square&logoColor=white" alt="WireGuard" />
 </p>
 
 ---
@@ -100,7 +98,7 @@
 ### 🏆 Key Architectural Projects
 
 * 🏢 **Enterprise ERP Modular Core**  
-  *High-concurrency backend built on ASP.NET Core & EF Core following Clean Architecture and DDD principles, complete with role-based access control (RBAC) và automated background processing.*  
+  *High-concurrency backend built on ASP.NET Core & EF Core following Clean Architecture and DDD principles, complete with role-based access control (RBAC) and automated background processing.*  
   `ASP.NET Core` • `EF Core` • `SQL Server` • `Redis` • `Hangfire`
 
 * ⚡ **High-Throughput Distributed Cache Gateway**  
@@ -112,7 +110,6 @@
 ### 🏅 Engineering Achievements & Trophies
 
 <div align="center">
-  <!-- Dynamic GitHub Achievements / Trophies -->
   <a href="https://github.com/TNM2004">
     <img src="https://github-profile-trophy.vercel.app/?username=TNM2004&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   </a>
